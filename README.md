@@ -2,7 +2,7 @@
 
 ### App 版本要点
 
-该项目旨在记录手机 App 不同版本的特点，方便用户选择合适的 App 版本。App 以 Android 端版本为准。
+记录手机 App 不同版本的特点，方便选择合适的 App 版本。App 以 Android 端版本为准。
 
 GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
@@ -111,7 +111,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
   - 内置 WebView 更新至 116.0.0.0 版本
   - Target API 更新至 34
   - Settings > General > Storage 中「Other Data」拆分为「资源文件和其他账号的聊天记录」和「必要文件」
-  - Settings > General 新增「Translate」
+  - Settings > General 中新增「Translate」
 
 
 ### 支付宝 Alipay
@@ -125,3 +125,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 - **GP-Ver. 10.5.70.9500 (1004)**  
   - 更换 logo
   - 支持「视觉风格焕新」
+
+- **GP-Ver. 10.6.0.8500 (1303)**
+  - 支持「Alipay Tap」。Me > Settings > Payment Settings 中新增「Alipay Tap」  
+    支持「碰一下支付」。我的 > 设置 > 支付设置 中新增「碰一下支付」
