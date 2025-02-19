@@ -97,7 +97,8 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
   - 聊天功能升级。**（Changed）**
 
 - **CN-Ver. 7.15.90(378)**
-  - 首页、「同城」页 UI 改版。**（Changed）**
+  - 首页 UI 改版。**（Changed）**
+  - 底部 Dock 栏「会玩」板块改为「同城」。**（Changed）**
   - 聊天功能升级。**（Changed）**
 
 
