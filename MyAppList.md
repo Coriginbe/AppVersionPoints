@@ -23,7 +23,7 @@
 | 购物 | 数字人民币 | Google Play |  |
 |  | 支付宝 | Google Play | 10.6.50.9100(1802) |
 |  | 淘宝 | Google Play | 10.30.0.22 |
-|  | 闲鱼 | Official | 7.15.70 |
+|  | 闲鱼 | Official | 7.16.51(383) |
 |  | 京东 | Google Play | 12.1.0 |
 | 娱乐 | Spotify | Google Play |  |
 |  | 网易云音乐 | Official | 8.10.10 |
