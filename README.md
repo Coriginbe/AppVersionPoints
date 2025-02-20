@@ -101,6 +101,9 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
   - 底部 Dock 栏「会玩」板块改为「同城」。**（Changed）**
   - 聊天功能升级。**（Changed）**
 
+- **CN-Ver. 7.16.51(383)**
+  - 图标改为初始样式。
+
 
 ### 微信 WeChat
 
