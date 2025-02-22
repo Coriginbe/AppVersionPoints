@@ -32,6 +32,9 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
   - 评论中超链接蓝色加深。**（Changed）**
   - **[Bug]** 视频全屏返回详情页时，**MIUI** screen indicator（手势提示线）位置偏移至屏幕中央的概率增加。
 
+- **GP-Ver. 3.20.3**
+  - 更换图标。**（Changed）**
+
 
 ### 哔哩哔哩（tv.danmaku.bili）
 
