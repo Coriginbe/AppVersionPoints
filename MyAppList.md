@@ -27,5 +27,5 @@
 |  | 京东 | Google Play | 12.1.0 |
 | 娱乐 | Spotify | Google Play |  |
 |  | 网易云音乐 | Official | 8.10.10 |
-|  | bilibili | Google Play | 3.19.0 |
+|  | bilibili | Google Play | 3.20.3 |
 |  | 米游社 | Official |  |
