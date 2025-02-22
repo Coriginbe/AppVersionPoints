@@ -1,6 +1,13 @@
 # Changelog
 
 
+## 2025-02-22
+
+### Added
+
+- 增加「bilibili（com.bilibili.app.in）」GP-Ver. 3.20.3。
+
+
 ## 2025-02-20
 
 ### Added
