@@ -14,7 +14,6 @@
 |  | AirPortal | Google Play |  |
 |  | RayLink | Official |  |
 | 社交 | Be My Eyes | Google Play |  |
-|  | Outlook | Google Play |  |
 |  | TIM | Official | 4.0.97 |
 |  | 微信 | Google Play | 8.0.48(2588) |
 | 出行 | 高德地图 | 定制版 | 魅族 20 Pro 定制版_12.03.60.3016 |
