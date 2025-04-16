@@ -47,13 +47,13 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
 ### 车来了
 
-- **Ver. 4.46.0(348)**
+- **Ver. 4.46.0(348)**  
   Target API 更新至 30 。**（Changed）**
 
 
 ### 车来了公交大字版
 
-- **Ver. 1.65.0(5280)**
+- **Ver. 1.65.0(5280)**  
   Target API 更新至 30 。**（Changed）**
 
 
