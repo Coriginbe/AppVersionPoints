@@ -22,12 +22,11 @@
 |  | 南网在线 | Official |  |
 |  | 交管12123 | Official |  |
 | 出行 | 高德地图 | Google Play | 15.00.0.1635 |
-|  | 车来了公交大字版 | Official | 1.65.0(5280) |
 |  | 哈啰 | Official | 6.44.0 |
 | 购物 | 数字人民币 | Google Play |  |
 |  | 中国银行 | Official | 9.0.0 |
 |  | 支付宝 | Google Play | 10.6.50.9100(1802) |
-|  | 淘宝 | Google Play | 10.30.0.22 |
+|  | 淘宝 | Google Play | 10.40.11.18 |
 |  | 闲鱼 | 定制版 | OPPO Reno 13 定制版_7.14.69 |
 |  | 京东 | Google Play | 12.1.0 |
 | 娱乐 | Spotify | Google Play |  |
