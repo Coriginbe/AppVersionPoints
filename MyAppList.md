@@ -23,6 +23,7 @@
 |  | 交管12123 | Official |  |
 | 出行 | 高德地图 | Google Play | 15.00.0.1635 |
 |  | 哈啰 | Official | 6.44.0 |
+|  | 车来了公交大字版 | Official | 1.65.0(5280) |
 | 购物 | 数字人民币 | Google Play |  |
 |  | 中国银行 | Official | 9.0.0 |
 |  | 支付宝 | Google Play | 10.6.50.9100(1802) |
