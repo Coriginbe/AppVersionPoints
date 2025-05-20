@@ -15,15 +15,18 @@
 |  | DeepSeek | Google Play |  |
 | 社交 | TIM | Official | 4.0.98 |
 |  | 微信 | Google Play | 8.0.48(2588) |
-| 生活 | Be My Eyes | Google Play |  |
+| 生活 | 国家网络身份认证 | Official |  |
+|  | 国家医保服务平台 | Official | 1.3.16(124) |
+|  | 粤省事 | Official |  |
+|  | 南网在线 | Official |  |
+|  | 交管12123 | Official |  |
+|  | Be My Eyes | Google Play |  |
 |  | Keep | Official | 8.3.0 |
 |  | 小米运动健康 | Official | 3.31.0 |
 |  | 米家 | Google Play | 9.8.700 |
-|  | 南网在线 | Official |  |
-|  | 交管12123 | Official |  |
 | 出行 | 高德地图 | Google Play | 15.00.0.1635 |
 |  | 哈啰 | Official | 6.44.0 |
-|  | 车来了公交大字版 | Official | 1.65.0(5280) |
+|  | 车来了 | Official | 3.86.2 |
 | 购物 | 数字人民币 | Google Play |  |
 |  | 中国银行 | Official | 9.0.0 |
 |  | 支付宝 | Google Play | 10.6.50.9100(1802) |
