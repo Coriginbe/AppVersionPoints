@@ -1,5 +1,6 @@
 # [AppVersionPoints](https://github.com/Coriginbe/AppVersionPoints)
 
+
 ### App 版本要点
 
 记录手机 App 不同版本的特点，方便选择合适的 App 版本。App 以 Android 端版本为准。
@@ -10,9 +11,11 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
 记录信息源于官方更新日志、项目所有者对比数据、媒体平台创作者内容。  
 
+
 #### 引用：  
 - [Bilibili](https://www.bilibili.com/) [@玄离199](https://space.bilibili.com/67079745/)  
 - [微信公众号](https://mp.weixin.qq.com/) @百分之千 （微信号：bfzq55）
+
 
 ### [项目更新日志](Changelog.md)
 
