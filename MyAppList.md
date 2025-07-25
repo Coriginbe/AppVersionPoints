@@ -11,6 +11,7 @@
 |  | AppShare | Official |  |
 |  | Google Authenticator | Google Play | 6.0 |
 |  | RustDesk | GitHub |  |
+|  | Parsec | Google Play |  |
 |  | DeepSeek | Google Play |  |
 | 社交 | TIM | Official | 4.0.98 |
 |  | 微信 | Google Play | 8.0.48(2588) |
