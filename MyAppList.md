@@ -10,8 +10,7 @@
 |  | AirPortal | Google Play |  |
 |  | AppShare | Official |  |
 |  | Google Authenticator | Google Play | 6.0 |
-|  | Parsec | Google Play |  |
-|  | RayLink | Official |  |
+|  | RustDesk | GitHub |  |
 |  | DeepSeek | Google Play |  |
 | 社交 | TIM | Official | 4.0.98 |
 |  | 微信 | Google Play | 8.0.48(2588) |
@@ -24,8 +23,7 @@
 |  | Be My Eyes | Google Play |  |
 |  | 小米运动健康 | Official | 3.31.0 |
 |  | 米家 | Google Play | 9.8.700 |
-| 出行 | 高德地图 | Google Play | 15.00.0.1635 |
-|  | 哈啰 | Official | 6.44.0 |
+|  | 高德地图 | Google Play | 15.00.0.1635 |
 |  | 车来了 | Google Play | 3.38.0 |
 | 购物 | 数字人民币 | Google Play |  |
 |  | 中国银行 | Official | 9.0.0 |
