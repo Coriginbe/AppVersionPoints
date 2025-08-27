@@ -5,6 +5,8 @@
 |---|---|---|---|
 | 工具 | 李跳跳 | Official | 派大星2.2 (Latest) |
 |  | Via | Google Play | 5.8.1 |
+|  | AccuBattery | Google Play |  |
+|  | SAI | GitHub |  |
 |  | 清浊 | Official |  |
 |  | LocalSend | Google Play |  |
 |  | AirPortal | Google Play |  |
@@ -28,6 +30,7 @@
 |  | 车来了 | Google Play | 3.38.0 |
 | 购物 | 数字人民币 | Google Play |  |
 |  | 中国银行 | Official | 9.0.0 |
+|  | 平安口袋银行海外版 | Official |  |
 |  | 支付宝 | Google Play | 10.6.50.9100(1802) |
 |  | 淘宝 | Google Play | 10.40.11.18 |
 |  | 闲鱼 | 定制版 | OPPO Reno 13 定制版_7.14.69 |
