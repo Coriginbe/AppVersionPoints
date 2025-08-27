@@ -31,7 +31,7 @@
 | 购物 | 数字人民币 | Google Play |  |
 |  | 中国银行 | Official | 9.0.0 |
 |  | 平安口袋银行海外版 | Official |  |
-|  | 支付宝 | Google Play | 10.6.50.9100(1802) |
+|  | 支付宝 | Google Play | 10.6.66.9100(2020) |
 |  | 淘宝 | Google Play | 10.40.11.18 |
 |  | 闲鱼 | 定制版 | OPPO Reno 13 定制版_7.14.69 |
 | 娱乐 | Spotify | Google Play |  |
