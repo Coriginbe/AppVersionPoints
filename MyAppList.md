@@ -19,7 +19,7 @@
 |  | UU远程 | Official |  |
 |  | DeepSeek | Google Play |  |
 | 社交 | 飞书 | Official | 7.38.7 |
-|  | TIM | Official | 4.0.98 |
+|  | TIM | Official | 4.0.97 |
 |  | 微信 | Google Play | 8.0.48(2588) |
 | 生活 | 国家网络身份认证 | Official |  |
 |  | 国家医保服务平台 | Official | 1.3.16(124) |
