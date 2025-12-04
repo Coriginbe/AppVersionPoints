@@ -3,7 +3,6 @@
 
 | 分类 | 应用 | 渠道 | 版本号 |
 |---|---|---|---|
-| 系统 | 小米钱包 | Official | 6.72.0.5000.2172 |
 | 工具 | 李跳跳 | Official | 派大星2.2 (Latest) |
 |  | Via | Google Play | 6.8.0 |
 |  | Activity Manager | GitHub |  |
