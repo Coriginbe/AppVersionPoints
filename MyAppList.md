@@ -42,7 +42,7 @@
 |  | 中国银行 | Official | 9.0.0 |
 |  | 招商银行 | Google Play | 12.4.0 |
 |  | 平安口袋银行海外版 | Official |  |
-|  | 支付宝 | Google Play | 10.6.66.9100(2020) |
+|  | 支付宝 | Google Play | 10.6.50.9100 |
 |  | 淘宝 | Google Play | 10.40.11.18 |
 |  | 闲鱼 | Official | 7.16.80(386) |
 |  | 当当 | Official | 14.8.1 |
