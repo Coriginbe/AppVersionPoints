@@ -262,3 +262,6 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 - **GP-Ver. 10.7.60.7000**
   - **Changed**
     - 「碰一下」服务升级。支持“碰一下核身”等场景。
+  - **Known Issues**
+    - ```HyperOS 2.0.213.0.VMRCNXM (Android 15)``` 更改 设置>账号与安全>解锁设置 后返回，应用闪退。  
+      ```三方应用应用异常分析（com.miui.thirdappassistant）：因应用自身加固异常，造成闪退```
