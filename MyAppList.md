@@ -14,11 +14,11 @@
 |  | AirPortal | Google Play |  |
 |  | AppShare | Official |  |
 |  | Google Authenticator | Google Play | 6.0 |
-|  | Parsec | Google Play |  |
 |  | 连连控 | Official |  |
 |  | UU远程 | Official |  |
 |  | DeepSeek | Google Play |  |
-| 社交 | 飞书 | Official | 7.38.7 |
+| 社交 | Outlook | Google Play |  |
+|  | 飞书 | Official | 7.38.7 |
 |  | TIM | Official | 4.0.97 |
 |  | 微信 | Google Play | 8.0.48(2588) |
 | 生活 | 国家网络身份认证 | Official |  |
@@ -31,6 +31,7 @@
 |  | 米家 | Google Play | 9.8.700 |
 |  | Be My Eyes | Google Play |  |
 |  | 简讯 | Official |  |
+|  | 形色 | Official |  |
 |  | 顺丰速运 | Official | 9.83.1 |
 | 出行 | 高德地图 | Google Play | 15.00.0.1635 |
 |  | 车来了 | Google Play | 3.38.0 |
@@ -42,11 +43,13 @@
 |  | 中国银行 | Official | 9.0.0 |
 |  | 招商银行 | Google Play | 12.4.0 |
 |  | 平安口袋银行海外版 | Official |  |
-|  | 支付宝 | Google Play | 10.6.50.9100 |
+|  | 支付宝 | Google Play | 10.7.60.7000 |
 |  | 淘宝 | Google Play | 10.40.11.18 |
 |  | 闲鱼 | Official | 7.16.80(386) |
 |  | 当当 | Official | 14.8.1 |
-| 娱乐 | Spotify | Google Play |  |
+| 娱乐 | Duolingo | Google Play |  |
+|  | Spotify | Google Play |  |
 |  | 网易云音乐 | Official | 8.10.10 |
 |  | bilibili | Google Play | 3.17.0 |
+|  | 巴哈姆特動畫瘋  | Google Play |  |
 |  | 米游社 | Official |  |
