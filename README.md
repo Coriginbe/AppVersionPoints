@@ -265,3 +265,9 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
   - **Known Issues**
     - ```HyperOS 2.0.213.0.VMRCNXM (Android 15)``` 更改 设置>账号与安全>解锁设置 后返回，应用闪退。  
       ```三方应用应用异常分析（com.miui.thirdappassistant）：因应用自身加固异常，造成闪退```
+
+- **GP-Ver. 10.8.26.7000**
+  - **Added**
+    - 支持 2026年「支付宝集福啦」活动。
+  - **Changed**
+    - 图标增加“集福啦”字样。
