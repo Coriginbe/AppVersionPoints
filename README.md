@@ -1,27 +1,43 @@
 # [AppVersionPoints](https://github.com/Coriginbe/AppVersionPoints)
 
 
-### App 版本要点
+## App 版本要点
 
-记录手机 App 不同版本的特点，方便选择合适的 App 版本。App 以 Android 端版本为准。
+记录手机 app 不同版本的特点，方便选择合适的 app 版本。App 以 Android 端版本为准。
 
-GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
+GP-Ver.：Google Play 版 | CN-Ver.：中国版
 
-记录不包含完整的版本更新内容，仅选取部分特点记录。由于项目所有者的能力和精力有限，选取标准较为主观，无法全面记录各版本的要点。  
+记录不包含完整的版本更新内容，仅选取部分特点记录。由于项目维护者的能力和精力有限，选取标准较为主观，无法全面记录各版本的要点。  
 
-记录信息源于官方更新日志、项目所有者对比数据、媒体平台创作者内容。  
+记录信息源于官方更新日志、项目维护者对比数据、媒体平台创作者内容。  
 
 
-#### 引用：  
+### 引用：  
 - [Bilibili](https://www.bilibili.com/) [@玄离199](https://space.bilibili.com/67079745/)  
 - [微信公众号](https://mp.weixin.qq.com/) @百分之千 （微信号：bfzq55）
 
 
-### [项目更新日志](Changelog.md)
+### [项目更新日志](CHANGELOG.md)
 
 ---
 
-### bilibili（com.bilibili.app.in）
+## 目录
+
+- [bilibili（com.bilibili.app.in）](#bilibilicombilibiliappin)
+- [哔哩哔哩（tv.danmaku.bili）](#哔哩哔哩tvdanmakubili)
+- [车来了](#车来了)
+- [车来了公交大字版](#车来了公交大字版)
+- [哈啰](#哈啰)
+- [京东](#京东)
+- [Keep](#keep)
+- [淘宝 Taobao](#淘宝-taobao)
+- [闲鱼](#闲鱼)
+- [微信 WeChat](#微信-wechat)
+- [支付宝 Alipay](#支付宝-alipay)
+
+---
+
+## bilibili（com.bilibili.app.in）
 
 - **GP-Ver. 3.19.0**
   - **Added**
@@ -51,7 +67,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
     - 提高弱网环境下视频加载成功率，降低 50% 缓冲等待时间。
 
 
-### 哔哩哔哩（tv.danmaku.bili）
+## 哔哩哔哩（tv.danmaku.bili）
 
 - **CN-Ver. 6.25.0**
   - **Added**
@@ -62,35 +78,35 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
     - 用户个人主页、信息发布页等位置新增 IP 属地显示。
 
 
-### 车来了
+## 车来了
 
 - **Ver. 4.46.0(348)**
   - **Changed**
-    - Target API 更新至 30 。
+    - Target API 更新至 30。
 
 
-### 车来了公交大字版
+## 车来了公交大字版
 
 - **Ver. 1.65.0(5280)**
   - **Changed**
-    - Target API 更新至 30 。
+    - Target API 更新至 30。
 
 
-### 哈啰
+## 哈啰
 
 - **CN-Ver. 6.44.0**
   - **Added**
     - 新增「骑行记录工具」。
 
 
-### 京东
+## 京东
 
 - **GP-Ver. 12.1.0(98891)**
   - **Changed**
-    - Target API 更新至 33 。
+    - Target API 更新至 33。
 
 
-### Keep
+## Keep
 
 - **Ver. 8.3.0(45847)**
   - **Added**
@@ -100,7 +116,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
     - 已发布的动态支持编辑和修改。
 
 
-### 淘宝 Taobao
+## 淘宝 Taobao
 
 - **GP-Ver. 10.24.20.34**
   - **Added**
@@ -111,7 +127,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
     - 支付方式新增「微信支付」。
 
 
-### 闲鱼
+## 闲鱼
 
 - **CN-Ver. 7.8.70**
   - **Changed**
@@ -119,7 +135,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
 - **CN-Ver. 7.13.81(357)**
   - **Changed**
-    - Target API 更新至 33 。
+    - Target API 更新至 33。
 
 - **CN-Ver. 7.15.60**
   - **Changed**
@@ -148,7 +164,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
     - 卖家聊天页面商品标签处新增「设置专拍价」。
 
 
-### 微信 WeChat
+## 微信 WeChat
 
 - **CN-Ver. 8.0.7**
   - **Added**
@@ -175,7 +191,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
     - 设置>通用>存储空间 中「Other Data」拆分为「资源文件和其他账号的聊天记录」和「必要文件」。
 
 
-### 支付宝 Alipay
+## 支付宝 Alipay
 
 - **GP-Ver. 10.3.80.9100(773)**
   - **Added**
@@ -189,7 +205,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
   - **Added**
     - 新增「视觉风格焕新」。
   - **Changed**
-    - 图标更改为新 logo 。
+    - 图标更改为新 logo。
 
 - **GP-Ver. 10.6.0.8500(1303)**
   - **Added**
