@@ -9,7 +9,6 @@
 |  | SAI | GitHub |  |
 |  | Auto.js | Official |  |
 |  | AccuBattery | Google Play |  |
-|  | 清浊 | Official |  |
 |  | LocalSend | Google Play |  |
 |  | AirPortal | Google Play |  |
 |  | AppShare | Official |  |
@@ -24,7 +23,6 @@
 | 生活 | 国家网络身份认证 | Official |  |
 |  | 国家医保服务平台 | Official | 1.3.16(124) |
 |  | 交管12123 | Official |  |
-|  | 粤省事 | Official |  |
 |  | 南网在线 | Official |  |
 |  | 12321助手 | Official |  |
 |  | 小米运动健康 | Official | 3.31.0 |
@@ -32,6 +30,7 @@
 |  | Be My Eyes | Google Play |  |
 |  | 简讯 | Official |  |
 |  | 形色 | Official |  |
+|  | Duolingo | Google Play |  |
 |  | 顺丰速运 | Official | 9.83.1 |
 | 出行 | 高德地图 | Google Play | 15.00.0.1635 |
 |  | 车来了 | Google Play | 3.38.0 |
@@ -47,9 +46,10 @@
 |  | 淘宝 | Google Play | 10.40.11.18 |
 |  | 闲鱼 | Official | 7.16.80(386) |
 |  | 当当 | Official | 14.8.1 |
-| 娱乐 | Duolingo | Google Play |  |
+| 娱乐 | Apple Music | Google Play |  |
 |  | Spotify | Google Play |  |
 |  | 网易云音乐 | Official | 8.10.10 |
 |  | bilibili | Google Play | 3.17.0 |
 |  | 巴哈姆特動畫瘋  | Google Play |  |
+|  | Steam | Google Play |  |
 |  | 米游社 | Official |  |
